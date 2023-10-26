@@ -10,7 +10,7 @@ A Telegram bot to download videos from Youtube, Tiktok, Instagram and convert fi
 
 
 ## Configuring Environments in file config.py
-- `TOKEN` : Your bot token, generate it from [BotFather]([https://t.meBotFather](https://t.me/BotFather))
+- `TOKEN` : Your bot token, generate it from [BotFather](https://t.me/BotFather)
 
 #### Author: [Telegram](https://t.me/qwoe1x), [Discord](https://discordapp.com/users/852586781727916073)
 ---
